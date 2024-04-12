@@ -14,7 +14,7 @@ def hopbox_means(csv, est_h2 = False):
     Parameters
     ----------
     csv : string
-        A string correspondign to the name of the .csv file produced by HopBox. 
+        A string corresponding to the name of the .csv file produced by HopBox. 
         This .csv file is typically called 'Features.csv'
     est_h2 : Boolean
         Defaults to False. If set to False, the function will only return a
